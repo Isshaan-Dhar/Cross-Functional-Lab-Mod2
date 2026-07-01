@@ -14,3 +14,5 @@ To complete this lab, the following Git workflow was executed:
 6. **Create Merge Request:** Opened an MR to merge the feature branch into `main`.
 7. **Resolve Comments:** Addressed reviewer feedback and pushed subsequent commits to resolve the MR threads.
 8. **Merge Branch:** Successfully merged the approved feature branch into the `main` branch.
+Completing the Git Lab Assignment
+Demonstrating comment resolution
